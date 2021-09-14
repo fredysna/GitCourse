@@ -22,3 +22,5 @@ class Employee {
 }
 let emp = new Employee(1, 'Ram');
 emp.display();
+
+//se agrega mensaje comentarioado
